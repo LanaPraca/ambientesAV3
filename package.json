@@ -4,7 +4,8 @@
   "description": "Este é um projeto de prova prática para praticar refatoração de código com base nos princípios do livro \"Clean Code\" de Robert C. Martin.",
   "main": "swapi.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
   },
   "keywords": [],
   "author": "",
